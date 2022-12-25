@@ -1,0 +1,38 @@
+[
+ {
+  "orderID": "90jfjfkedljgfdigjf0rrre",
+  "accountName": "Aaron Judge",
+  "email": "aaron.judge@nyyankees.com",
+  "phone": "646-427-4633",
+  "transactionDate": "2022-10-18T03:28:44.918Z",
+  "orderStatus": "PENDING_SHIPMENT",
+  "productSKU": "8430439450934343432234523",
+  "productBrand": "Trophy Central",
+  "productName": "Large Trophy Case",
+  "pricePerItem": "$456.55",
+  "quantity": "1",
+  "shippingMethod": "Standard",
+  "shippingAddress": "123 Yankee Way, New York, NY 10451",
+  "paymentMethod": "Credit Card",
+  "currency": "USD",
+  "channel": "Amazon Seller Central"
+ },
+ {
+  "orderID": "1369jfhguirr85849j3j3844t844o",
+  "accountName": "Gerrit Cole",
+  "email": "gerrit.cole@nyyankees.com",
+  "phone": "646-334-5606",
+  "transactionDate": "2022-10-18T07:55:41.228Z",
+  "orderStatus": "PENDING_SHIPMENT",
+  "productSKU": "95686960603322234596960",
+  "productBrand": "Spider Tack",
+  "productName": "Competition Grade Adhesive",
+  "pricePerItem": "15.49",
+  "quantity": "100",
+  "shippingMethod": "Standard",
+  "shippingAddress": "445 Babe Ruth Lane, New York, NY 10455",
+  "paymentMethod": "Credit Card",
+  "currency": "USD",
+  "channel": "Amazon Seller Central"
+ }
+]

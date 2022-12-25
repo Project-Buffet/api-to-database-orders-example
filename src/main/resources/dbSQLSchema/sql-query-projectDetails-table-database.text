@@ -1,0 +1,11 @@
+-- projectDetails definition
+
+CREATE TABLE `projectDetails` (
+  `installation` varchar(100) DEFAULT NULL,
+  `projectManager` varchar(100) DEFAULT NULL,
+  `description` varchar(100) DEFAULT NULL,
+  `projectName` varchar(100) DEFAULT NULL,
+  `stage` varchar(100) DEFAULT NULL,
+  `deadline` varchar(100) DEFAULT NULL,
+  `status` varchar(100) DEFAULT NULL
+);
